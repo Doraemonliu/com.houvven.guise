@@ -14,7 +14,9 @@
 
 ## 描述
 
-Guise是一个对标**[应用变量]()**的Xposed模块，其主要作用是为你的安卓设备上的软件传递不同的系统参数。你可以随心所欲的设置它们。
+Guise是一个对标**[应用变量]()**的[Xposed](https://baike.baidu.com/item/Xposed%E6%A1%86%E6%9E%B6/16859077)模块，其主要作用是为你的安卓设备上的软件传递不同的系统参数。你可以随心所欲的设置它们。
+
+*在Android 13上使用[Lsposed](https://baike.baidu.com/item/LSPosed?fromModule=lemma_search-box)测试通过，未测试其他Android版本以及其他框架。*
 
 
 
@@ -25,7 +27,12 @@ Guise是一个对标**[应用变量]()**的Xposed模块，其主要作用是为�
 - 网络类型
 - WiFi-SSID
 - WiFi-BSSID
-- Android ID (SSAOD)
+- SIM运营商代码
+- SIM运营商
+- SIM国家 (iso)
+- Android ID (SSAID)
+- IMEI
+- 位置模拟
 - 电量百分比
 - 语言
 - ......
