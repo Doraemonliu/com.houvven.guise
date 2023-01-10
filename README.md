@@ -35,6 +35,7 @@ Guise是一个对标**应用变量**的[Xposed](https://baike.baidu.com/item/Xpo
 - 位置模拟
 - 电量百分比
 - 语言
+- 强制启用/禁用截屏
 - ......
 - 更多功能正在路上
 
