@@ -1,5 +1,4 @@
 <div align="center" style="display: flex; flex-flow: column; align-items: center;">
-    <img src="https://github.com/Houvven/Guise/blob/31f4e3a84325029750eeca26df77d99b5ac7fc26/assets/ic_launcher-playstore.png" alt="logo" width="150" style="zoom:25%;" />
     <h1>Guise</h1>
     <h5 style="margin-top: -5px;">Put a sheep's skin on your Android app</h5>
     </br>
